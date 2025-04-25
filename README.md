@@ -31,6 +31,8 @@ Laravel8.83.27
 MySQL8.0.26
 ER図
 
+![スクリーンショット 2025-04-26 033654](https://github.com/user-attachments/assets/38f43315-c71b-4fc1-be97-d5ef673b0a8c)
+
 
 URL
 開発環境：http://localhost/
